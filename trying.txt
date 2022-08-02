@@ -1,0 +1,1 @@
+This is a trying folder to check the connection of git with the remote repository Github.
